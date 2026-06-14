@@ -15,4 +15,4 @@
 7. Committed and pushed to GitHub
 
 ## Issues
-No issues encountered — setup went smoothly.
+- I had issues with pushing repository to Github.Resolved it with the help of ai agent .
